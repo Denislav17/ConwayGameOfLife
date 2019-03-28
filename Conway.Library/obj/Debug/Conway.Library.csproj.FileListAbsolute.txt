@@ -1,0 +1,6 @@
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\bin\Debug\Conway.Library.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\bin\Debug\Conway.Library.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.csprojAssemblyReference.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.csproj.CoreCompileInputs.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library\obj\Debug\Conway.Library.pdb

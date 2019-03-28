@@ -1,0 +1,10 @@
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe.config
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csprojAssemblyReference.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.exe
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\Conway.Library.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\Conway.Library.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CopyComplete

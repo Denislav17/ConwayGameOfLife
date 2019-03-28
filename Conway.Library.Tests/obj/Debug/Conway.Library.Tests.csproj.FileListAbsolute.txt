@@ -1,0 +1,11 @@
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.csprojAssemblyReference.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.csproj.CoreCompileInputs.cache
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.Tests.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.Tests.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\nunit.framework.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\Conway.Library.pdb
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\bin\Debug\nunit.framework.xml
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.csproj.CopyComplete
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.dll
+E:\ConwaysGameOfLife\ConwaysGameOfLife\Conway.Library.Tests\obj\Debug\Conway.Library.Tests.pdb
